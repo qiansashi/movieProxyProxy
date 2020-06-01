@@ -48,4 +48,13 @@ http://yfspecialweb.cn:8901/v1/movie/subject/photo?:id
 ```
 http://yfspecialweb.cn:8901/v1/movie/subject/photo?id=1291546
 ```
-
+### 名人作品
+---
+### Url
+```
+http://yfspecialweb.cn:8901/v1/movie/celebrity/works?:id
+```
+### Example
+```
+http://yfspecialweb.cn:8901/v1/movie/celebrity/works?id=1054521
+```
