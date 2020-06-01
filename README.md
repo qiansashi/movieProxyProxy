@@ -17,3 +17,35 @@ http://yfspecialweb.cn:8901/v1/movie/subject:id
 http://yfspecialweb.cn:8901/v1/movie/subject?id=1291546
 ```
 
+### 演员详情
+---
+### Url
+```
+http://yfspecialweb.cn:8901/v1/movie/celebrity:id
+```
+### Example
+```
+http://yfspecialweb.cn:8901/v1/movie/celebrity?id=1054521
+```
+### 演员图片
+---
+### Url
+```
+http://yfspecialweb.cn:8901/v1/movie/celebrity/photo?:id
+```
+### Example
+```
+http://yfspecialweb.cn:8901/v1/movie/celebrity/photo?id=1054521
+```
+
+### 电影图片
+---
+### Url
+```
+http://yfspecialweb.cn:8901/v1/movie/subject/photo?:id
+```
+### Example
+```
+http://yfspecialweb.cn:8901/v1/movie/subject/photo?id=1291546
+```
+
